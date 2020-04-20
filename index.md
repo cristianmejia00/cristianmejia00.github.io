@@ -6,7 +6,7 @@ Beyond the University I act as CTO and co-founder of [Paper Digest](https://www.
 
 Follow me:
 
-- [Linkedin](https://www.linkedin.com/in/crismejia00)
+- [LinkedIn](https://www.linkedin.com/in/crismejia00)
 
 - [ResearchGate](https://www.researchgate.net/profile/Cristian_Mejia3)
 
