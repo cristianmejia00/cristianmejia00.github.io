@@ -1,7 +1,25 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Researcher and academic entrepreneur.
 
-![Image of fast.ai logo](images/logo.png)
+My research consist on analyzing networks of patent and academic articles to leverage funding allocation strategies. I also apply artificial intelligence / machine learning to connect large corpus of news to scientific research to better understand the social impact of emerging technologies.
 
-## This is a title
+Beyond the University I act as CTO and co-founder of [Paper Digest](https://www.paper-digest.com/) a web app that applies artificial intelligence to summarize academic literature. Aiming to accelerate the discovery process or just plainly free-up time to researchers.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Follow me:
+
+[Linkedin](https://www.linkedin.com/in/crismejia00)
+
+[ResearchGate](https://www.researchgate.net/profile/Cristian_Mejia3)
+
+[Twitter](https://twitter.com/c_mejia00)
+
+[Github](https://github.com/cristianmejia00)
+
+[Google Scholar](https://scholar.google.com/citations?&user=wmZEs50AAAAJ)
+
+[Mendeley](https://www.mendeley.com/profiles/cristian-mejia3/)
+
+[Orcid](https://orcid.org/0000-0002-3465-4761)
+
+Whenever you find an article of mine behind a paywall, feel free to contact me at cristianmejia00 \[at\] gmail \[dot\] com. I will be happy to share it with you.
+
+I use this blog to share annotations of things I’m reading and doing. Not all of them related to research or startups.
