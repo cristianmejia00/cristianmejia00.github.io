@@ -26,6 +26,7 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-target-blank
 
 titles_from_headings:
   enabled:     true
